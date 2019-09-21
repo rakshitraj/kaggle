@@ -1,5 +1,5 @@
 # Jupyter Notebook temporary files
 .ipynb_checkpoints
 
-# kaggle files
+# pyCharm files
 .idea/
