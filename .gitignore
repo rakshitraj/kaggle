@@ -3,3 +3,6 @@
 
 # pyCharm files
 .idea/
+
+# Large datasets > 10 MB
+dataset/
