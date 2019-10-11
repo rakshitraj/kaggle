@@ -6,3 +6,6 @@
 
 # Large datasets > 10 MB
 dataset/
+
+# swap files
+*.swp
