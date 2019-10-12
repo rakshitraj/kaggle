@@ -7,5 +7,8 @@
 # Large datasets > 10 MB
 dataset/
 
+# Pre-trained models
+models/
+
 # swap files
 *.swp
