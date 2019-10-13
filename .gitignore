@@ -12,3 +12,7 @@ models/
 
 # swap files
 *.swp
+
+# In-production ignores (temporary)
+# Github-pages
+pages/
